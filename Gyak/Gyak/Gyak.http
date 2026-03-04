@@ -1,0 +1,6 @@
+@Gyak_HostAddress = http://localhost:5273
+
+GET {{Gyak_HostAddress}}/all
+Accept: application/json
+
+###
